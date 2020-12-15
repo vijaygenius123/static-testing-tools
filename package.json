@@ -1,0 +1,26 @@
+{
+  "name": "static-testing-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/static-testing-tools.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/static-testing-tools/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/static-testing-tools#readme",
+  "devDependencies": {
+    "@babel/cli": "7.12.10",
+    "@babel/core": "7.12.10",
+    "@babel/preset-env": "7.12.10",
+    "eslint": "7.15.0"
+  }
+}
