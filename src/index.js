@@ -4,7 +4,7 @@ const username = 'freddy'
 typeof username === 'strng'
 
 if(!'serviceWorker' in navigator){
-    //You have an old broweser
+    //You have an old browser
 }
 
 const greeting = 'hello'
